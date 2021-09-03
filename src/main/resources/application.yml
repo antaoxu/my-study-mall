@@ -2,8 +2,8 @@ server:
   port: 8080
 spring:
   datasource:
-    url: jdbc:mysql://localhost:3306/mall?useUnicode=true&characterEncoding=utf-8&serverTimezone=Asia/Shanghai
-    username: root
+    url: jdbc:mysql://101.133.238.85:3306/mall?useUnicode=true&characterEncoding=utf-8&serverTimezone=Asia/Shanghai
+    username: mall
     password: Qq111111
 
 #mybatis:
